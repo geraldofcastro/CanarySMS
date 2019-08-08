@@ -1,0 +1,61 @@
+2019-08-06 23:03:58
+gammu sendsms TEXT 61992388060 -textutf8 'Ol'
+Warning: No configuration file found!
+Warning: No configuration read, using builtin defaults!
+Error opening device, it doesn't exist.
+
+
+2019-08-06 23:04:42
+gammu sendsms TEXT 61992388060 -textutf8 'Ol'
+Warning: No configuration file found!
+Warning: No configuration read, using builtin defaults!
+Error opening device, you don't have permissions.
+
+
+2019-08-06 23:04:50
+gammu sendsms TEXT 61992388060 -textutf8 'Ol'
+Warning: No configuration file found!
+Warning: No configuration read, using builtin defaults!
+Error opening device, you don't have permissions.
+
+
+2019-08-06 23:05:38
+sudo gammu sendsms TEXT 61992388060 -textutf8 'Ol'
+
+
+2019-08-06 23:10:03
+sudo gammu sendsms TEXT 61992388060 -textutf8 'Olaa'
+
+
+2019-08-06 23:16:12
+sudo gammu sendsms TEXT 61992388060 -textutf8 'Olaa'
+
+
+2019-08-06 23:18:38
+sudo gammu sendsms TEXT 61992388060 -textutf8 'Olaa'
+
+
+2019-08-06 23:20:36
+sudo gammu sendsms TEXT 61992388060 -textutf8 'Olaa'
+
+
+2019-08-06 23:22:28
+sudo gammu sendsms TEXT 61992388060 -textutf8 'Olaa'
+
+
+2019-08-06 23:23:35
+sudo gammu sendsms TEXT 61992388060 -textutf8 'Olaa'
+
+
+2019-08-06 23:27:03
+sudo gammu sendsms TEXT 61992388060 -textutf8 'Olaa'
+
+
+2019-08-07 07:03:30
+sudo gammu sendsms TEXT 61992388060 -textutf8 'Olaa'
+
+
+2019-08-07 07:13:30
+sudo gammu sendsms TEXT 61992388060 -textutf8 'Olaa'
+
+
